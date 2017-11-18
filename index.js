@@ -1,3 +1,3 @@
 function shout(string){
-  console.log('HELLO')
+  console.log('string');
 }
